@@ -22,7 +22,7 @@ This project demonstrates a scalable web system architecture leveraging NGINX as
 
 ---
 
-##Traffic Flow
+## Traffic Flow
 
 1. Users send HTTP requests to the Load Balancer.
 2. Requests are routed to one of the NGINX servers.
@@ -34,7 +34,7 @@ This project demonstrates a scalable web system architecture leveraging NGINX as
 
 ---
 
-##Tech Stack / Provisioning
+## Tech Stack / Provisioning
 
 - **NGINX**
 - **Apache Tomcat**
@@ -47,7 +47,7 @@ This project demonstrates a scalable web system architecture leveraging NGINX as
 
 ---
 
-##Use Cases
+## Use Cases
 
 - High availability and load-balanced web platforms
 - Message-driven architecture for scalability
@@ -56,8 +56,8 @@ This project demonstrates a scalable web system architecture leveraging NGINX as
 
 ---
 
-##Setup Instructions
-> #Setup and Provisioning should be done in the order as seen below:  
+## Setup Instructions
+> # Setup and Provisioning should be done in the order as seen below:  
 >1. **MySQL** – Database service  
 >2. **Memcache** - DB Caching
 >3. **RabbitMQ** – Messaging broker/Queque 

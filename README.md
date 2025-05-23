@@ -57,7 +57,7 @@ This project demonstrates a scalable web system architecture leveraging NGINX as
 ---
 
 ## Setup Instructions
-> # Setup and Provisioning should be done in the order as seen below:  
+> ### Setup and Provisioning should be done in the order as seen below:  
 >1. **MySQL** – Database service  
 >2. **Memcache** - DB Caching
 >3. **RabbitMQ** – Messaging broker/Queque 

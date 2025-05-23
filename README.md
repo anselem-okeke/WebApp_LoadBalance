@@ -427,6 +427,12 @@ This project demonstrates a scalable web system architecture leveraging NGINX as
 > systemctl restart nginx
 > ```
 
+## 🔗 References
+
+- [
+DevOps Beginners to Advanced with Projects
+Udemy](https://www.udemy.com/course/decodingdevops/learn/lecture/26461008?start=15#overview)
+
 
 
 

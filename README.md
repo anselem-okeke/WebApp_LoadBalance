@@ -57,7 +57,7 @@ This project demonstrates a scalable web system architecture leveraging NGINX as
 ---
 
 ## 🛠️ Setup Instructions
-> ###Setup and Provisioning should be done in the order as seen below:  
+> ##Setup and Provisioning should be done in the order as seen below:  
 >1. **MySQL** – Database service  
 >2. **Memcache** - DB Caching
 >3. **RabbitMQ** – Messaging broker/Queque 
@@ -65,10 +65,10 @@ This project demonstrates a scalable web system architecture leveraging NGINX as
 >5. **NGINX** – Reverse proxy/load balancer
 > 
 
-> ####1. MYSQL Setup
->######Login to the db vm
+> ##1. MYSQL Setup
+>##Login to the db vm
 > ```shell
->vvagrant ssh db01
+>vagrant ssh db01
 ```
 
 
